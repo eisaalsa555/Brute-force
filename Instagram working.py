@@ -57,7 +57,7 @@ def load_wordlist(path):
 
 def main():
     print("\n" + "="*50)
-    print("     Instagram Login Brute Force Tester - Pydroid Friendly")
+    print("     Instagram Login Brute Force Tester By Mohd Eisa  ")
     print("="*50 + "\n")
 
     username = input("Enter Instagram username to test: ").strip()
