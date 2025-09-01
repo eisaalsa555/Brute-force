@@ -40,5 +40,8 @@ It is designed to be **Pydroid-friendly** (Android) and also runnable on normal 
    https://github.com/eisaalsa555/Brute-force.git
    python 'Instagram working.py'
 ## And Give Username & Password Wordlist Path Like This 👇Enter 
-Instagram username to test: example_515
-Enter path to password wordlist file: /storage/emulated/0/pass.txt
+
+
+1.Instagram username to test: example_515
+
+2.Enter path to password wordlist file: /storage/emulated/0/pass.txt
