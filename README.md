@@ -45,3 +45,7 @@ It is designed to be **Pydroid-friendly** (Android) and also runnable on normal 
 1.Instagram username to test: example_515
 
 2.Enter path to password wordlist file: /storage/emulated/0/pass.txt
+If You Use Kali Then 
+/home/kali/<your Wordlist path>
+If You Want To Use Our Defoult Password List Then Use Only 
+pass.txt
