@@ -38,7 +38,7 @@ It is designed to be **Pydroid-friendly** (Android) and also runnable on normal 
 1. Clone the repo:
    ```bash
    https://github.com/eisaalsa555/Brute-force.git
-   python 'Instagram working.py'
+   python main.py
 ## And Give Username & Password Wordlist Path Like This 👇Enter 
 
 
